@@ -7,8 +7,8 @@ setup(
   description = 'This serializes and given a object according to the dict passed to it',
   author = 'Abhishek K gowda',
   author_email = 'abhishek.k6006@gmail.com',
-  url = 'https://github.com/abhishek246/Django_Serilizer.git', # use the URL to the github repo
-  download_url = 'https://github.com/abhishek246/Django_Serilizer.git/tarball/0.1', # I'll explain this in a second
+  url = 'https://github.com/abhishek246/django_generic_serializers.git', # use the URL to the github repo
+  download_url = 'https://github.com/abhishek246/django_generic_serializers.git/tarball/0.1', # I'll explain this in a second
   keywords = ['django', 'serializer', 'django-serializers'], # arbitrary keywords
   classifiers = [],
 )

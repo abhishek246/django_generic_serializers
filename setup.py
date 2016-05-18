@@ -1,8 +1,8 @@
 from distutils.core import setup
 
 setup(
-  name = 'django_generic_serializers',
-  packages = ['django_generic_serializers'], # this must be the same as the name above
+  name = 'django_generic_serializer',
+  packages = ['django_generic_serializer'], # this must be the same as the name above
   version = '0.1',
   description = 'This serializes and given a object according to the dict passed to it',
   author = 'Abhishek K gowda',

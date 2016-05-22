@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name = 'django_generic_serializer',
   packages = ['django_generic_serializer'], # this must be the same as the name above
-  version = '0.1',
+  version = '0.2',
   description = 'This serializes and given a object according to the dict passed to it',
   author = 'Abhishek K gowda',
   author_email = 'abhishek.k6006@gmail.com',

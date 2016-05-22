@@ -58,3 +58,15 @@ Importing Django Generic Serializer
 		}
 	}
 ```
+
+### Date Formating
+All you time zone are converted to UTC before converting it to local time zone specified. 
+Setting timezone 
+```
+	serializers.Serializers.set_timezone('America/Halifax')
+```
+
+You can see the current time set by using
+```
+	serializers.Serializers.get_timezone()
+```

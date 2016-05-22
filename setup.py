@@ -8,7 +8,7 @@ setup(
   author = 'Abhishek K gowda',
   author_email = 'abhishek.k6006@gmail.com',
   url = 'https://github.com/abhishek246/django_generic_serializers.git', # use the URL to the github repo
-  download_url = 'https://github.com/abhishek246/django_generic_serializers.git/tarball/0.2', # I'll explain this in a second
+  download_url = 'https://github.com/abhishek246/django_generic_serializers.git/tarball/0.3', # I'll explain this in a second
   keywords = ['django', 'serializer', 'django-serializers'], # arbitrary keywords
   classifiers = [],
 )

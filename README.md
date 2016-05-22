@@ -57,6 +57,7 @@ Importing Django Generic Serializer
 			}
 		}
 	}
+	serializer.serializers(mymodel_object, res_dict)
 ```
 
 ### Date Formating
